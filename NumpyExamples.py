@@ -2,7 +2,10 @@
 """
 Created on Thu Jan 28 14:38:41 2021
 
-@author: Bilgin
+@author: Bilgin Altundas
+
+File includes examples for the applications of Numpy library
+
 https://numpy.org/doc/stable/user/quickstart.html
 """
 ### Examples of Numpy
