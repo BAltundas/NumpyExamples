@@ -6,6 +6,7 @@ Created on Thu Jan 28 14:38:41 2021
 
 File includes examples for the applications of Numpy library
 
+Reference:
 https://numpy.org/doc/stable/user/quickstart.html
 """
 ### Examples of Numpy
